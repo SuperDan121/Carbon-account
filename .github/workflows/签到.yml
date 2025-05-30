@@ -13,7 +13,7 @@ jobs:
       #Request SignIn
       URL: https://carbon-account-server.carbonstop.net/task/complete
       REQUEST_BODY: '{"value" : 1,"sceneCode" : "MRCJ0002","signMessage" : "2c2b34840b8ec9fb735e1b2bed8533fa"}'
-      BARK_URL: 'https://api.day.app/oZaeqGLJzRLSxW7dJqeACn/'
+      BARK_URL: 'https://api.day.app/A5TccStoSr8dsFt5kMocBK/'
 
     steps:
       - name: Checkout repository
